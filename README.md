@@ -69,8 +69,9 @@ A comprehensive, production-ready LinkedIn clone built with modern technologies 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/linkedin-clone.git
-cd linkedin-clone
+git remote add origin https://github.com/saifakhtar09/LinkedinCloneWeb.git
+
+cd linkedinc
 ```
 
 ### 2. Install dependencies
@@ -288,4 +289,4 @@ For support and questions:
 
 ---
 
-Built with ❤️ using modern web technologies
+Built with ❤️ using modern web technologies by Saif
